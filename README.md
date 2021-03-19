@@ -24,9 +24,13 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Please answer the following questions below, you may edit the readme file to include your answers below the question.
 
 1. How would you describe acessibility on the web to someone new to programming?
-2. Talk about 3 different things you can do to ensure your website is accessible. 
+Responsive design addresses acessibilty on the web by combining features of fixed, adapative, and fluid websites into one seamless experience. This makes the website function fully across thousands of devices and screen sizes. 
+2. Talk about 3 different things you can do to ensure your website is accessible.
+You can ensure your website is accessible by adding a viewport meta tag, media inquiries, and making the website adaptive. 
 3. How would you explain the concept of a variable to someone new to programming?
+Variables are the heart of JavaScript. It is a way to store, change, and use data in code. 
 4. What is the purpose of using functions in code?
+Functions allow you to repeat sections of code with just a single line.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
@@ -48,8 +52,8 @@ NOTE: Tests will run for the JavaScript portion of this challenge only
 
 *Before you jump in, take 10 minutes to review the code that has already been provided for you. Take time to see how the home page was built. During this time, [Review the provided design files](design/). You have been provided all content necessary in the [index.html file](index.html) and basic styling in the [index.css file](css/index.css).*
 
-* [ ] Add a viewport meta tag to the head of your index.html page.
-* [ ] Add responsive breakpoints to your code for 500px such that your styles match the [mobile design file](design/Mobile.png).
+* [*] Add a viewport meta tag to the head of your index.html page.
+* [*] Add responsive breakpoints to your code for 500px such that your styles match the [mobile design file](design/Mobile.png).
 
 ### Task 2b: Minimum Viable Product - JavaScript
 
